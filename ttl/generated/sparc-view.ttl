@@ -37317,10 +37317,6 @@ ILX:0776203 a owl:Class ;
     owl:hasDbXref FMA:82718 ;
     owl:memberOfTermSet ILX:0771765 .
 
-ILX:0776204 a owl:Class ;
-    rdfs:label "Paxinos rat parcellation label root-paxrat:" ;
-    owl:memberOfTermSet ILX:0773565 .
-
 ILX:0776205 a owl:Class ;
     rdfs:label "Endothelium of mitral valve" ;
     owl:hasDbXref FMA:263688 ;
